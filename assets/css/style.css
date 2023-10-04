@@ -1091,11 +1091,11 @@ body::-webkit-scrollbar-thumb {
     bottom: 20%;
 } */
 
-@media(min-width:1400px) {
+/* @media(min-width:1400px) {
     .pa1 {
         width: 50%;
     }
-}
+} */
 
 
 @media(max-width:600px)
