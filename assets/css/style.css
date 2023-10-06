@@ -1098,6 +1098,7 @@ body::-webkit-scrollbar-thumb {
 } */
 
 
+
   .animatedsetting{
     margin-top: -150px;
     }
@@ -1107,6 +1108,11 @@ body::-webkit-scrollbar-thumb {
     .animatedsetting{
     margin-top: -170px;
     }
+
+    
+.animatedsetting{
+        top: 300.547px !important;
+}
 }
 @media(max-width:500px)
 {
